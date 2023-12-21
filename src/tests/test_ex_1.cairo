@@ -1,4 +1,4 @@
-use cairo_exercises::exercise_one;
+use script_cairo::exercise_one;
 
 #[test]
 fn test_ex_1() {
