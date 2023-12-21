@@ -2,5 +2,5 @@
 version = 1
 
 [[package]]
-name = "script-cairo"
+name = "script_cairo"
 version = "0.1.0"
