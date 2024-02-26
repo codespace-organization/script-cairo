@@ -1,6 +1,10 @@
-use script_cairo::exercise_one;
+use cairo_exercises::exercise_one;
 
 #[test]
 fn test_ex_1() {
-    assert(exercise_one() == 20, 'x should be 20!');
+    let mut arr = array![1, 2, 3, 4, 5];
+    let returned_array = exercise_one(ref arr);
+    assert(*returned_array.at(0) == 4, 'First value should be 4');
+    assert(*returned_array.at(1) == 5, 'Second value should be 5');
+    assert(*returned_array.at(2) == 6, 'Third value should be 6');
 }
