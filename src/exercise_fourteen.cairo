@@ -1,4 +1,5 @@
-//Exercise fourteen: Make the exercise_fourteen function return the Food correctly by maintaining ownership of the pizza variable.
+//Exercise 14: Make the exercise_fourteen function return the Food correctly by maintaining ownership of the pizza variable.
+
 
 struct Food {
     name: felt252,

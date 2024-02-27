@@ -1,4 +1,6 @@
-// Exercise sixteen: Make the exercise_sixteen function work by reordering the lines of code. Don't add or modify any code!
+// Exercise 16: Make the exercise_sixteen function work by reordering the lines of code. Don't add or modify any code!
+
+
 use array::ArrayTrait;
 
 fn exercise_sixteen() -> Array<felt252>{
