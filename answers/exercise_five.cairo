@@ -5,3 +5,7 @@ fn exercise_five() -> felt252 {
     let result: felt252 = return_123();
     result
 }
+
+fn return_123() -> felt252 {
+    123
+}

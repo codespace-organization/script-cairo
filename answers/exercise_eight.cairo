@@ -3,9 +3,12 @@
 fn exercise_eight() -> u32 {
     let mut counter = 0;
 
-    // only add code that modifies the loop
-    loop {
+    let result: u32 = loop {
+        if counter == 7 {
+            break counter * 10;
+        }
 
+        counter += 1;
     };
 
     result

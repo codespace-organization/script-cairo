@@ -2,6 +2,7 @@
 fn exercise_two() -> felt252 {
     let x = 1;
     // Write your code below this line. Don't modify the code above.
+    let x = 'apple';
 
     // Don't modify the code below this line.
     x
