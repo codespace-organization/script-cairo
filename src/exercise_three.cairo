@@ -1,11 +1,5 @@
-// Excercise 3: Make the mathematical addition work by modifying the code.
+// Excercise 3: Modify the integer types to make the tests pass.
+// Learn how to convert between integer types, and felts.
 
 
-fn exercise_three() -> u16 {
-    // Only modify the 2 lines below. Don't write any new lines of code.
-    let x = 5_u16;
-    let y = 300;
-    // Don't modify the code below this line.
-    let sum: u16 = x + y;
-    sum
-}
+fn exercise_three(x: u8) -> felt252 {}
