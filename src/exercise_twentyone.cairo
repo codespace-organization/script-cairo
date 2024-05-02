@@ -8,5 +8,6 @@ enum Class {
 }
 
 fn exercise_twentyone(character: Class) -> u32 {
+    // Your code here!
 
 }
