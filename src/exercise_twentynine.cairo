@@ -5,4 +5,6 @@
 
 fn exercise_twentynine() -> Felt252Dict<u32> {
     let mut dict: Felt252Dict<u32> = Default::default();
+    // Your code here!
+
 }

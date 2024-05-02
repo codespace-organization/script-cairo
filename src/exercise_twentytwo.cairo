@@ -18,7 +18,7 @@ fn exercise_twentytwo(ref box: Array<Fruit>) -> Array<Fruit> {
     // Don't modify the line below
     let mut picnic_basket: Array<Fruit> = ArrayTrait::new();
 
-    // Write your code here
+    // Your code here!
 
     // Don't modify the line below
     picnic_basket
