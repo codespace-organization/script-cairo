@@ -1,4 +1,4 @@
-// Exercise 23:
+// Arrays:
 // This exercise you should create an `Array` which holds three elements of type `felt252`.
 // The first element shoud be 0.
 // And the array must have len of 3.

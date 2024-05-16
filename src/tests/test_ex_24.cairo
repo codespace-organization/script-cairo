@@ -1,7 +1,7 @@
 use array::ArrayTrait;
 use option::OptionTrait;
-use script_cairo::exercise_twentyfour_create_array
-use script_cairo::exercise_twentyfour_remove_element_from_array
+use script_cairo::exercise_twentyfour_create_array;
+use script_cairo::exercise_twentyfour_remove_element_from_array;
 
 #[test]
 fn test_ex24_1() {
