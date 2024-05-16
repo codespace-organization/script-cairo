@@ -1,6 +1,5 @@
-use script_cairo::exercise_twentyfive
+use script_cairo::exercise_twentyfive;
 
-// Don't change anything in the test
 #[test]
 #[available_gas(200000)]
 fn test_ex_25() {

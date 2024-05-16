@@ -1,4 +1,4 @@
-use script_cairo::exercise_twentysix
+use script_cairo::exercise_twentysix;
 
 // Don't change anything in the test
 #[test]

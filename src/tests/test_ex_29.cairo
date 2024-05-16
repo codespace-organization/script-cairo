@@ -1,4 +1,4 @@
-use script_cairo::exercise_twentynine
+use script_cairo::exercise_twentynine;
 
 
 #[test]
