@@ -25,3 +25,15 @@ mod test_ex_21;
 mod test_ex_22;
 
 // new one (16/03/2024)
+mod test_ex_23;
+mod test_ex_24_1;
+mod test_ex_24_2;
+mod test_ex_25;
+mod test_ex_26_1;
+mod test_ex_26_2;
+mod test_arrays2;
+mod test_adjusted_array_length;
+mod test_ex_28;
+mod test_ex_29;
+mod test_conditional_multiplication;
+mod test_conditional_multiplication_with_no_effect;

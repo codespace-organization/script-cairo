@@ -3,7 +3,7 @@ use script_cairo::exercise_twentysix;
 // Don't change anything in the test
 #[test]
 #[available_gas(2000000000)]
-fn test_ex26_1() {
+fn test_ex_26_1() {
     let mut dict: Felt252Dict<u32> = Default::default();
     dict.insert(0, 1);
     dict.insert(1, 2);
@@ -18,7 +18,7 @@ fn test_ex26_1() {
 
 #[test]
 #[available_gas(200000000)]
-fn test_ex26_2() {
+fn test_ex_26_2() {
     let mut dict: Felt252Dict<u32> = Default::default();
     dict.insert(0, 1);
     dict.insert(1, 2);

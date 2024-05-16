@@ -1,5 +1,5 @@
 // Arrays:
-// Your task is to make the test pass without modifying the `create_array` function.
+// Your task is to make the test pass without modifying the `exercise_twentyfour_create_array` function.
 
 use array::ArrayTrait;
 use option::OptionTrait;
