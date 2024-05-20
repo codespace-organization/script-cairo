@@ -1,12 +1,16 @@
 // Exercise 26:
-// Dictionaries can be used to simulate dynamic array : the value they store can be accessed and modified.
-// Your task is to create a function that multiplies the elements stored at the indexes 0 to n of a dictionary by 10
-// Make me compile and pass the test!
+// Dictionaries can be used to simulate dynamic array: 
+// Create a function that multiplies the values of the first few dictionary entries by 10,
+// specifically for the first three entries (indices 0, 1, and 2). 
+// Requires you to manually update each entry.
 
 
 
 
-fn exercise_twentysix(ref dict: Felt252Dict<u32>, n: usize) {
-    let mut dict: Felt252Dict<u32> = Default::default();
-    // Your code here!
+fn exercise_twentysix(ref dict: Felt252Dict<u32>) {
+    // Manually update the first three dictionary entries by multiplying them by 10
+
+    // Your code here
+
 }
+
