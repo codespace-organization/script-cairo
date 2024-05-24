@@ -1,12 +1,33 @@
-use script_cairo::exercise_twentynine
+use script_cairo::exercise_twentynine;
 
 
 #[test]
-#[available_gas(200000)]
-fn test_ex_29() {
-    let dict = exercise_twentynine();
-    assert(dict.get('A').unwrap() == 1, 'Element mapped to "A" should be 1');
-    assert(dict.get('B').unwrap() == 2, 'Element mapped to "B" should be 2');
-    assert(dict.contains_key('bob'), 'Key "bob" should exist');
-    assert(dict.get('bob').unwrap() == 3, 'Element mapped to "bob" should be 3');
+#[available_gas(2000000000)]
+fn test_3() {
+    let mut dict: Felt252Dict<u32> = Default::default();
+    dict.insert(0, 1);
+    dict.insert(1, 2);
+    dict.insert(2, 3);
+
+    exercise_twentynine(ref dict, 3);
+
+    assert(dict.get(0) == 10, 'First element is not 10');
+    assert(dict.get(1) == 20, 'Second element is not 20');
+    assert(dict.get(2) == 30, 'Third element is not 30');
+}
+
+#[test]
+#[available_gas(200000000)]
+fn test_4() {
+    let mut dict: Felt252Dict<u32> = Default::default();
+    dict.insert(0, 1);
+    dict.insert(1, 2);
+    dict.insert(2, 5);
+    dict.insert(3, 10);
+
+    exercise_twentynine(ref dict, 4);
+
+    assert(dict.get(2) == 50, 'First element is not 50');
+    assert(dict.get(3) == 100, 'First element is not 100');
+
 }

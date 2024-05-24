@@ -23,3 +23,13 @@ mod test_ex_19;
 mod test_ex_20;
 mod test_ex_21;
 mod test_ex_22;
+
+// // new one (16/03/2024)
+mod test_ex_23;
+mod test_ex_24;
+mod test_ex_25;
+mod test_ex_26;
+mod test_ex_27;
+mod test_ex_28;
+mod test_ex_29;
+mod test_ex_30;

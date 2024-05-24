@@ -1,6 +1,6 @@
 use array::ArrayTrait;
 use option::OptionTrait;
-use script_cairo::exercise_twentythree
+use script_cairo::exercise_twentythree;
 
 #[test]
 fn test_ex_23() {
