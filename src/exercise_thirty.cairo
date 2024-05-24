@@ -5,7 +5,11 @@
 // The function should return the modified dictionary.
 
 
-fn exercise_thirty(ref dict: Felt252Dict<u32>, n: usize) {
+fn exercise_thirty(ref dict: Felt252Dict<usize>, n: felt252) {
     // Your code here!
 
 }
+
+
+
+

@@ -1,4 +1,3 @@
-use core::traits::TryInto;
 use script_cairo::exercise_twentyseven_adjust_elements_in_array;
 use script_cairo::create_array;
 
