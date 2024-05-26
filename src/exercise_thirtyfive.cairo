@@ -1,4 +1,4 @@
-// Exercise 35
+// Struct:
 // On this exercise, you need to create a Order struct,
 // Check out all the "Your code here" part to see the what you have to do.
 

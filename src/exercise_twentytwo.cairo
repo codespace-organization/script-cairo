@@ -1,4 +1,7 @@
-// Exercise 22: We have a box of fruits, represented by an array. We want to take the fruits outside the box one by one and put them in our picnic basket, except for the sour mangos. Return the picnic basket.
+// Pattern Macthing:
+// We have a box of fruits, represented by an array. 
+// We want to take the fruits outside the box one by one and put them in our picnic basket, 
+// except for the sour mangos. Return the picnic basket.
 
 
 #[derive(Copy, Drop, PartialEq)]

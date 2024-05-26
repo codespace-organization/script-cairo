@@ -1,4 +1,4 @@
-// Exercise 34
+// Struct:
 // On this exercise, you need to create a color struct,
 // and on the function exercise_thirtyfour, you need to instantiate and return the struct.
 // Check out all the "Your code here" 

@@ -1,4 +1,4 @@
-// Exercise 30:
+// Dictionary:
 // On this exercise, you have to implement a function that receives a dictionary and a number n.
 // The function should iterate over the dictionary and for each key, it should check if the previous value is even.
 // If it is, the current value should be multiplied by 10.

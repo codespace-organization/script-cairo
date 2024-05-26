@@ -1,4 +1,4 @@
-// Exercise 39
+// Struct:
 // This exercise shows how you can implement multiple traits for a single type.
 // This is useful when you have types that share some common functionality, but
 // also have some unique functionality.

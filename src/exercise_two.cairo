@@ -1,4 +1,5 @@
-// Exercise 2: Change the value of x to 'apple' without modifying any of the existing lines of code.
+// Data Types:
+// Change the value of x to 'apple' without modifying any of the existing lines of code.
 
 
 fn exercise_two() -> felt252 {

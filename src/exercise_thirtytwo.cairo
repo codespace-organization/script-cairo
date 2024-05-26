@@ -1,4 +1,4 @@
-// Exercise 32
+// Function:
 // On this exercise you should return on the function to categorize input strings using 
 // if, else if, and else blocks. 
 // The function should return specific values based on the following criteria:

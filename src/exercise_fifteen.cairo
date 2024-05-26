@@ -1,4 +1,6 @@
-// Exercise 15: Make the exercise_fifteen function return the Number struct correctly by only adding or removing snapshots or references to the existing code.
+// Struct: 
+// Make the exercise_fifteen function return the Number struct correctly 
+// by only adding or removing snapshots or references to the existing code.
 
 
 #[derive(Drop)]

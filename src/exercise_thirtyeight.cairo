@@ -1,4 +1,4 @@
-// Exercise 38
+// Struct:
 // On this exercise you need to implement a trait for two types.
 // The trait `AnimalTrait` has two functions:
 // `new` and `make_noise`.

@@ -1,4 +1,4 @@
-// Exercise 40 (Array Manipulation)
+// Array Manipulation:
 // In this exercise adjust the provided code to address the "Your code here", 
 // ensuring the tests and functionality adhere to move semantics. 
 // The program should append numbers to an array, 

@@ -1,4 +1,4 @@
-// Exercise 46
+// Control Flow:
 // Exercise: Advanced Sale Price Calculation
 // This store is having a complex sale:
 // - If the price is an even number and under 100 Cairobucks, you get 10 Cairobucks off.

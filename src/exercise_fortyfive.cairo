@@ -1,4 +1,4 @@
-// Exercise 45 (Ref & Snapshot)
+// References & Snapshot:
 // Reorder the lines in the exercise_fortysix function to make it compile and meet the test condition.
 // Do not add or modify any code, only reorder the existing lines!
 

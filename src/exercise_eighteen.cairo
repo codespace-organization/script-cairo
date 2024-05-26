@@ -1,4 +1,6 @@
-// Exercise 19: Destructure the struct to get the name, phone_number and email of the member. Then return them in a tuple.
+// Struct: 
+// Destructure the struct to get the name, phone_number and email of the member.
+// Then return them in a tuple.
 
 #[derive(Drop)]
 struct Member {

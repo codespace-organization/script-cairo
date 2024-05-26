@@ -1,4 +1,4 @@
-// Exercise 29:
+// Dictionary:
 // Dictionaries can be used to simulate dynamic array: 
 // the value they store can be accessed and modified.
 // Your task is to create a function that multiplies 

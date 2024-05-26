@@ -1,4 +1,6 @@
-// Excercise 13: Make the function return the original empty array correctly by modifying the code in the exercise_thirteen function.
+// Array:
+// Make the function return the original empty array
+// correctly by modifying the code in the exercise_thirteen function.
 
 
 fn exercise_thirteen() -> Array<felt252> {

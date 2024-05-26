@@ -1,4 +1,4 @@
-// Exercise 25:
+// Array:
 // The Felt252Dict maps a felt252 to a value of the specified type.
 // In this exercise, you will map a `felt252` key to a value of type `u32`.
 

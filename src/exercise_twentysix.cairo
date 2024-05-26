@@ -1,4 +1,4 @@
-// Exercise 26:
+// Dictionary:
 // Dictionaries can be used to simulate dynamic array: 
 // Create a function that multiplies the values of the first few dictionary entries by 10,
 // specifically for the first three entries (indices 0, 1, and 2). 

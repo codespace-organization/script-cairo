@@ -1,4 +1,5 @@
-// Excercise 1: Make the following code work so that the value of x becomes 20.
+// Variables & Mutability: 
+// Make the following code work so that the value of x becomes 20.
 
 
 fn exercise_one() -> u32 {

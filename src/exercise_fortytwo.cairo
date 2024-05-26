@@ -1,4 +1,4 @@
-// Exercise 42 (Array Manipulation)
+// Array Manipulation:
 // Make me compile without adding new lines, just changing existing lines!
 // (no lines with multiple semicolons necessary!)
 

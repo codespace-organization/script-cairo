@@ -1,4 +1,4 @@
-// Exercise 44 (Array Manipulation)
+// Array Manipulation:
 // Correctly reorder the lines in the main() function to ensure the program compiles. 
 // This exercise focuses on the move semantics of Cairo, 
 // demonstrating the impact of passing arrays by value, reference, and snapshot.

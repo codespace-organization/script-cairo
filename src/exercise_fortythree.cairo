@@ -1,4 +1,4 @@
-// Exercise 43 (Array Manipulation)
+// Array Manipulation:
 // Refactor this code so that instead of passing `arr0` into the `exercise_fortythree` function,
 // the Array gets created in the function itself and passed back to the main
 // function.

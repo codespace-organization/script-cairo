@@ -1,4 +1,4 @@
-// Exercise 37
+// Struct:
 // Time to implement some traits!
 // Your task is to implement the trait
 // `AnimalTrait` for the type `Animal`

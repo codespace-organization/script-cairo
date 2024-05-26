@@ -1,4 +1,4 @@
-// Exercise 41 (Array Manipulation)
+// Array Manipulation:
 // Make me compile without changing line 15 or moving line 12!
 
 use array::ArrayTrait;

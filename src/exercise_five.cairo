@@ -1,4 +1,6 @@
-// Exercise 5: Write a function called return_123 so that the value of the result variable is the number 123.
+// Function: 
+// Write a function called return_123 
+// so that the value of the result variable is the number 123.
 
 fn exercise_five() -> felt252 {
     // Don't modify the code in this function.

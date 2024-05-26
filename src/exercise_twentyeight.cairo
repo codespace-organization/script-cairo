@@ -1,4 +1,4 @@
-// Exercise 28:
+// Functions:
 // On this exercise you will create a function that returns 
 // an array with the following elements: [0, 1, 3]
 // Must holds three elements of type felt252. 

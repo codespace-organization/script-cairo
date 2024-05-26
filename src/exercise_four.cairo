@@ -1,4 +1,6 @@
-// Exercise 4: take the values representing food from the 'random_elements' tuple and store them in a new tuple variable called 'food'.
+// Data Types:
+// take the values representing food from the 'random_elements'
+// tuple and store them in a new tuple variable called 'food'.
 
 
 fn exercise_four() -> (felt252, felt252) {

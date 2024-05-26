@@ -1,4 +1,5 @@
-// Excercise 3: Modify the integer types to make the tests pass.
+// Data Types:
+// Modify the integer types to make the tests pass.
 // Learn how to convert between integer types, and felts.
 
 

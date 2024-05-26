@@ -1,4 +1,4 @@
-// Exercise 27:
+// Array:
 // On this exercise dont modify the first function, just modify the second one in order
 // to adjust the elements in the array. The second element should be moved to the front of the array.
 

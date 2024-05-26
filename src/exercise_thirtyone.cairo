@@ -1,4 +1,4 @@
-// Exercise 31
+// Function:
 // Function is_sum_even that takes two integers num1 and num2 as parameters 
 // and returns whether their sum is even. 
 // Complete the function without using:

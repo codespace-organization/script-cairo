@@ -1,4 +1,4 @@
-// Exercise 47
+// Control Flow:
 // Exercise: Tiered Discount System
 // Objective: Calculate the total price based on the item count and price, applying various discounts.
 
