@@ -33,3 +33,23 @@ mod test_ex_27;
 mod test_ex_28;
 mod test_ex_29;
 mod test_ex_30;
+mod test_ex_31;
+mod test_ex_32;
+mod test_ex_33;
+mod test_ex_34;
+mod test_ex_35;
+mod test_ex_36;
+mod test_ex_37;
+mod test_ex_38;
+mod test_ex_39;
+mod test_ex_40;
+mod test_ex_41;
+mod test_ex_42;
+mod test_ex_43;
+mod test_ex_44;
+mod test_ex_45;
+mod test_ex_46;
+mod test_ex_47;
+
+
+
