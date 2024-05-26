@@ -15,7 +15,5 @@ fn create_array() -> Array<felt252> {
 
 fn exercise_twentyseven_adjust_elements_in_array(mut a: Array<felt252>){
     // Adjust the second element
-    let second_element = a.pop_back().unwrap();
-    a.push_front(second_element);  // Move the last element to the front
 }
 
